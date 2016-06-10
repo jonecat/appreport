@@ -15,9 +15,9 @@ theme:
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social:
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
+    github: jonecat
+    twitter: jonecat
+    facebook: jonecat
     gplus: +gayanvirajith
     # dribble: gayanvirajith
     pinterest: gayanvirajith
@@ -32,7 +32,7 @@ theme:
   # disqus_shortname: gaya-webcreate
 
   # Google Analytics/Webmaster key, leave blank to ignore
-  google_analytics_key:
+  google_analytics_key:UA-79080507-1
   google_webmaster_key:
 
 # Build settings
